@@ -1,3 +1,5 @@
 Write 50 numpy methods in jupyter notebook
 HELLO
 HELLO
+no hello
+no hello
